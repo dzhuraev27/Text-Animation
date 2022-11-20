@@ -1,3 +1,3 @@
 # Text-Animation
-Resultat:
+Result:
 https://dzhuraev27.github.io/Text-Animation/
